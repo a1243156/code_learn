@@ -6,3 +6,5 @@ response = requests.get(url).text
 print (response)
 print ('hello')
 print ('world!')
+print ('see you')
+print ('hi')
